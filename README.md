@@ -1,11 +1,10 @@
 # BrainPOP-Hacks
-dIS bWaInpOp hAcK
+Copy The Code In [Hacks.js](https://github.com/ShockAnchovy/BrainPOP-Hacks/blob/main/Hacks.js)
 
-
-Copy The Code In 
 Go Your BrainPOP Lesson
 
 Click Start
+
 Click Inspect Or Ctrl+SHIFT+I
 
 Paste Code And If It Doesent Paste Type "allow pasting"
