@@ -2,7 +2,7 @@
 dIS bWaInpOp hAcK
 
 
-Copy The Code In ____________
+Copy The Code In 
 Go Your BrainPOP Lesson
 
 Click Start
