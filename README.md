@@ -1,4 +1,6 @@
 # BrainPOP-Hacks
+CREDIT:DEVHAXX INC
+
 Copy The Code In [Hacks.js](https://github.com/ShockAnchovy/BrainPOP-Hacks/blob/main/Hacks.js)
 
 Go Your BrainPOP Lesson
