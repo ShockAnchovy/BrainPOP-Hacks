@@ -8,7 +8,7 @@ window.currQues = 0;
 // Watermark
 var copyrightDiv = document.createElement('div');
 copyrightDiv.style.cssText = 'position: fixed; bottom: 10px; width: 100%; color: black; font-size: 12px; text-align: center;';
-copyrightDiv.textContent = 'Copyright © Anchovy And DevTech 2024 All Rights Reserved';
+copyrightDiv.textContent = 'Made By Anchovy';
 document.body.appendChild(copyrightDiv);
 
 // Welcome Toast
@@ -27,15 +27,13 @@ UI.innerHTML = `<div id="Brainify" style="position: absolute; top: 158px; left: 
         -webkit-background-clip: text; line-height:80px; margin-top:-35px; text-align: center;">
       Brainify
     </div>
-
-
-    <div style="padding: 1.3pt; background: linear-gradient(to left, rgba(0, 255, 0), rgb(0, 255, 0)); color: rgb(0, 255, 0); margin-bottom: 10px; border-radius: 12px;">
+        <div style="padding: 1.3pt; background: linear-gradient(to left, rgba(0, 255, 0), rgb(0, 255, 0)); color: rgb(0, 255, 0); margin-bottom: 10px; border-radius: 12px;">
     <div class="modMenuItem" style="cursor: pointer; padding: 12px; background-color: rgba(16, 16, 24, 255); border-radius: 12px; text-align: center; transition: all .2s ease-out;">
       <span id="skip" style="font-family: 'Roboto', sans-serif; letter-spacing: 1px; font-weight: 500;">Quiz Skipper</span>
     </div>
     </div>
     <br>
-    <h4>  Remade by Anchovy</h4>
+    <h4>  Made By Anchovy And DevTech©</h4>
 </div>
 `;
 document.body.appendChild(UI);
