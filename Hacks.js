@@ -33,7 +33,7 @@ UI.innerHTML = `<div id="Brainify" style="position: absolute; top: 158px; left: 
     </div>
     </div>
     <br>
-    <h4>  Made By Anchovy And DevTech©</h4>
+    <h4>  Made By Anchovy 👍</h4>
 </div>
 `;
 document.body.appendChild(UI);
